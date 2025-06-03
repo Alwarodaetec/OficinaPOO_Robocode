@@ -1,3 +1,10 @@
+/*
+Autor: Alwaro Pedro
+Atividade: 07
+Título: Robô Barata
+Data: 22/05/2025
+*/
+
 package barata;
 import robocode.*;
 public class Barata extends Robot
