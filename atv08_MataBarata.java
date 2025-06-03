@@ -1,3 +1,10 @@
+/*
+Autor: Alwaro Pedro
+Atividade: 08
+Título: Robô Mata Barata
+Data: 27/05/2025
+*/
+
 package matabarata;
 import robocode.*;
 
